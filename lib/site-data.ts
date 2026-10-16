@@ -67,12 +67,7 @@ export const leadership = [
     image: "/shivdutt-das.jpg",
   },
   
-  {
-    name: "Ravi Gupta",
-    role: "Partner – Trade, Project Finance & International Advisory",
-    body: "With over 25 years of experience structuring complex financial solutions across 100+ countries in Europe, Africa, the Middle East, the Americas, APAC, and CIS, Ravi leads advisories on trade finance, project finance, and investment banking. His expertise in rapid prototyping and scaling financial products makes him the decisive edge for cross-border capital mobilization.",
-    image: "/ravi-gupta.jpg",
-  },
+
   {
     name: "Anand Rathod",
     role: "Partner – Corporate Finance, Treasury & CFO Advisory",
@@ -85,12 +80,7 @@ export const leadership = [
     body: "Recognized as a pioneering figure in India's post-liberalization private aviation sector. With over three decades of experience across aviation, shipping, infrastructure, agribusiness, and financial services, he brings exceptional credibility and insight via past associations with Damania Airways, Air Sahara, Kingfisher Airlines, and JNPT.",
     image: "/parvez-damania.png",
   },
-  {
-    name: "Ashish Chowdhry",
-    role: "Partner – Business Development & Ecosystem Alliances",
-    body: "Brings experience across entrepreneurship, venture building, strategic partnerships, and fundraising. Has a strong ability to connect institutions, investors, and businesses — driving alliances, venture growth support, stakeholder engagement, and capital access facilitation.",
-    image: "/ashish-chowdhry.png",
-  },
+
 ]
 
 export const executionTeam = [

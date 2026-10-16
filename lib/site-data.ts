@@ -66,12 +66,7 @@ export const leadership = [
     body: "Management professional with over 23 years of global experience spanning strategic finance, international business, manufacturing, risk management, structured finance, and project advisory. Has held senior leadership positions with United Spirits, ICICI Prudential, Bharti AXA, Tata AIA, Reliance Nippon, Ajeenkya DY Patil Healthcare, and Vishwa Samudra Group.",
     image: "/shivdutt-das.jpg",
   },
-  {
-    name: "Binoy B. Khimji",
-    role: "Partner – Industrialist, Corporate Director & Angel Investor",
-    body: "Over 25 years of experience across industrial engineering, international trade, and venture capital. As Director of International Sales for BDK Engineering/KFEL, he leads cross-border commercial transactions within the global energy sector. Contributes to financial ecosystems via board memberships at UBR Capital and Magpie Venture Partners.",
-    image: "/binoy-khimji.png",
-  },
+  
   {
     name: "Ravi Gupta",
     role: "Partner – Trade, Project Finance & International Advisory",
